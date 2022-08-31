@@ -1,0 +1,76 @@
+
+.greeting {
+  background-color:black;
+  color: white;
+  height: 80px;
+  
+}
+.contador{
+width:400px;
+height:300px;
+text-align: center;
+background-color: rgb(170, 167, 167);
+border:1px solid gray;
+border-radius: 10px;
+margin-top: 20vh;
+margin-left: 80vh;
+padding-top: 50px;
+
+}
+.botonI{
+  background-color: rgba(60, 207, 60, 0.87);
+  border:none;
+  height:30px;
+}
+h1{
+  padding-left: 5px;
+  color: aliceblue;
+  padding-bottom: 30px;
+}
+.botonD{
+  background-color: rgb(226, 30, 30);
+  border: none;
+  height: 30px;
+}
+.Input{
+  margin-top: 40px;
+  border-radius:5px;
+  height: 30px;
+  border-right: none;
+  border-left: none;
+  text-align: center;
+  outline: none;
+}
+.carrito{
+  background-color: rgb(61, 128, 187);
+  border:none;
+  margin-top:10px;
+}
+.card-productos{
+  display:inline-block;
+ margin:10px;
+ border: solid 1px  rgb(229, 225, 240);
+border-radius:10px;
+
+
+}
+.card-productos img{
+width: 300px;
+height:150px;
+}
+.desc{
+  font-size: 8px;
+}
+.card-productos p{
+  text-align: center;
+  color: rgb(237, 234, 243) ;
+}
+.app{
+  background-color: rgba(23, 13, 158, 0.904);
+  height:100vh;
+
+}
+.app h1{
+text-align: center;
+margin-top: 20px;
+}
